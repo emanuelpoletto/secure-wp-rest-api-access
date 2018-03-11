@@ -18,6 +18,6 @@ Inform that token in the URL when you want to GET your data through WP REST API 
 
 `https://yourdomain.com/wp-json/wp/v2/posts/?swpra_token=YOUR_TOKEN_HERE`
 
-Use the endpoint you want, or course.
+Use the endpoint you want, of course.
 
 That's it! If you need further information or help or even found a bug, please, open an issue... I'll be glad to help you ;)
