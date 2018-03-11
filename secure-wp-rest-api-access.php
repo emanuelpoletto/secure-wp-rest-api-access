@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Secure WordPress REST API Access
-Plugin URI: https://emanuelpoletto.com/
+Plugin URI: https://github.com/emanuelpoletto/secure-wp-rest-api-access
 Description: Require authentication for accessing the WordPress REST API to improve security.
 Version: 0.2.0
 Author: Emanuel Poletto
